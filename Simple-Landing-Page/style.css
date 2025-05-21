@@ -1,0 +1,95 @@
+body, ul, li, p {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 1.2rem;
+    font-family: Arial;
+}
+
+body {
+    background-image: url('https://images.pexels.com/photos/997443/pexels-photo-997443.jpeg?cs=srgb&amp;dl=background-black-and-white-dawn-997443.jpg&amp;fm=jpg');
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+/* HEADER */
+.header {
+    background-color: #1d1e20;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.menu {
+    display: flex;
+}
+.menu li {
+    padding-left: 10px;
+}
+.menu li a {
+    display: block;
+    padding: 15px;
+}
+.menu a:hover {
+    background-color: rgb(53, 53, 53);
+}
+.sitename {
+    margin-right:auto;
+    color:whitesmoke;
+    font-size: 30px;
+    font-family: Verdana;
+}
+
+/* Itens */
+.flex-itens {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.flex-itens > div:hover {
+    background-color: rgba(10, 10, 10, 0.2);
+}
+.flex-itens > div {
+    flex: 1 1 200px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+}
+.flex-itens p {
+    color: rgb(196, 196, 196);
+}
+main h1, p {
+    color:aliceblue;   
+}
+
+/* FOOTER */
+footer {
+    position: absolute; /* tira isso dps */
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: 2rem;
+    text-align: center;
+    background-color: #1d1e20;
+    color: whitesmoke;
+    font-size: 0.7rem;
+    font-family: Arial;
+}
