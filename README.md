@@ -24,7 +24,10 @@ Este projeto é uma landing page moderna com uma página de login integrada. Foi
 
 ## 📷 Preview
 
+# Home
 ![Preview da Home](./preview/preview.png)
+
+# Login
 ![Preview do Login](./preview/preview2.png)
 
-> UI simples
+> Simple Front-End
