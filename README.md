@@ -2,15 +2,15 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) -->
 
 ## 📌 Descrição
 
-Este projeto é uma landing page moderna com uma página de login integrada. Foi desenvolvido com foco em responsividade, design clean e boas práticas de front-end. Ideal para ser usado como template inicial ou como demonstração de habilidades em HTML, CSS e JavaScript.
+Este projeto é uma landing page "moderna" com uma página de login integrada. Foi desenvolvido com foco em design clean e escuro, além boas práticas de front-end. Ideal para ser usado como template inicial ou como demonstração de habilidades básicas em HTML e CSS.
 
 ## 🚀 Funcionalidades
 
-- Página inicial com design responsivo
+- Página inicial
 - Página de login
 - Validação visual de formulário
 - Estilo limpo e escuro
@@ -20,7 +20,7 @@ Este projeto é uma landing page moderna com uma página de login integrada. Foi
 
 - HTML5
 - CSS3
-- JavaScript
+<!-- - JavaScript -->
 
 ## 📷 Preview
 
